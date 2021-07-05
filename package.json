@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": false,
   "scripts": {
-    "start": "json-server db.json"
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.17.1",
